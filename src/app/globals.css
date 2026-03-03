@@ -179,17 +179,7 @@ nav .links a:hover { opacity: 1; }
   opacity: 1;
   transform: translateY(0);
 }
-@media (prefers-reduced-motion: no-preference) {
-  .member.animate-ready {
-    opacity: 0;
-    transform: translateY(50px);
-    transition: all 1s cubic-bezier(0.16, 1, 0.3, 1);
-  }
-  .member.animate-ready.visible {
-    opacity: 1;
-    transform: translateY(0);
-  }
-}
+/* scroll animation removed — content visible by default */
 .member:nth-child(even) { direction: rtl; }
 .member:nth-child(even) > * { direction: ltr; }
 
@@ -301,14 +291,7 @@ footer .meta {
   opacity: 1;
   transform: translateY(0);
 }
-@media (prefers-reduced-motion: no-preference) {
-  .reveal.animate-ready {
-    opacity: 0;
-    transform: translateY(40px);
-    transition: all 0.9s cubic-bezier(0.16, 1, 0.3, 1);
-  }
-  .reveal.animate-ready.visible { opacity: 1; transform: translateY(0); }
-}
+/* scroll animation removed — content visible by default */
 
 /* Grain overlay — subtle felt texture echo */
 body::after {
