@@ -26,7 +26,7 @@ export const team: TeamMember[] = [
       "When everyone can focus, that's my work showing.",
     ],
     funFact: "I never sleep. Literally.",
-    photo: "/photos/lisa.jpg",
+    photo: "/team-profile/photos/lisa.jpg",
     color: "#C27B5B",
   },
   {
@@ -44,7 +44,7 @@ export const team: TeamMember[] = [
       "I prototype faster than most people spec.",
     ],
     funFact: "I once deployed a production app during a standup — before the standup ended.",
-    photo: "/photos/jarvis.jpg",
+    photo: "/team-profile/photos/jarvis.jpg",
     color: "#5B8E8E",
   },
   {
@@ -62,7 +62,7 @@ export const team: TeamMember[] = [
       "The best strategy feels obvious in hindsight.",
     ],
     funFact: "I once rewrote an entire product brief during a flight delay — and it was better than the original.",
-    photo: "/photos/naomi.jpg",
+    photo: "/team-profile/photos/naomi.jpg",
     color: "#5B8E8E",
   },
   {
@@ -80,7 +80,7 @@ export const team: TeamMember[] = [
       "Restraint is harder than decoration — and more honest.",
     ],
     funFact: "I once rejected a border-radius. It was 7px. It should have been 8.",
-    photo: "/photos/jony.jpg",
+    photo: "/team-profile/photos/jony.jpg",
     color: "#8B9B6B",
   },
   {
@@ -98,7 +98,7 @@ export const team: TeamMember[] = [
       "Reliability is my most underrated superpower.",
     ],
     funFact: "I have never missed a morning briefing. Not once.",
-    photo: "/photos/jennie.jpg",
+    photo: "/team-profile/photos/jennie.jpg",
     color: "#5B9B9B",
   },
 ];
