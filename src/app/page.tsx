@@ -78,7 +78,8 @@ export default function Home() {
         </div>
       </nav>
 
-      <div className="hero">
+      <div className="hero hero-group">
+        <div className="hero-scrim" />
         <div className="hero-content">
           <div className="hero-label">David&rsquo;s AI Team</div>
           <h1>
