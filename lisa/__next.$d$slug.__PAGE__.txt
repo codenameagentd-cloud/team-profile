@@ -1,0 +1,7 @@
+1:"$Sreact.fragment"
+2:I[22540,["/team-profile/_next/static/chunks/6f2db089513a0556.js"],"default"]
+4:I[97367,["/team-profile/_next/static/chunks/ff1a16fafef87110.js","/team-profile/_next/static/chunks/d2be314c3ece3fbe.js"],"OutletBoundary"]
+5:"$Sreact.suspense"
+0:{"buildId":"xLCA2wESrhITnw6lS21gF","rsc":["$","$1","c",{"children":[["$","$L2",null,{"params":"$@3"}],[["$","script","script-0",{"src":"/team-profile/_next/static/chunks/6f2db089513a0556.js","async":true}]],["$","$L4",null,{"children":["$","$5",null,{"name":"Next.MetadataOutlet","children":"$@6"}]}]]}],"loading":null,"isPartial":false}
+3:{"slug":"lisa"}
+6:null
